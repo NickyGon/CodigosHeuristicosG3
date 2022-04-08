@@ -4,7 +4,7 @@ Códigos de exposición de Grupo 3 sobre la búqueda heurística:
 ## Best First Search
 Método de búsqueda que implementa BFS y DFS para realizar un análisis y expansión de nodos según el menor costo de distancia entre ellos. Recuerda en una cola quienes son los nodos que puede visitar aún, y en otra cuales ya han sido explorados por completo
 
-![Best First Search Explanation](https://static.javatpoint.com/tutorial/ai/images/informed-search-algorithms.png)
+![Best First Search Explanation](https://iq.opengenus.org/content/images/2021/10/image-33-1.jpg)
 
 
 ## A* Search
